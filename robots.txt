@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.lanzhouai.cn/sitemap.xml
